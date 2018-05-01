@@ -17,7 +17,7 @@ buildNumber.properties
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-.idea/**/workspace.xml
+.idea/
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
@@ -46,6 +46,7 @@ cmake-build-release/
 
 # IntelliJ
 out/
+*.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
